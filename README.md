@@ -42,18 +42,15 @@ Kocie Muzeum to eksperymentalna aplikacja edukacyjna, która pozwala na zrozumie
 
 ## Co można poprawić?
 1. Czystość kodu i organizacja
-- ✅ Segmentacja kodu – część funkcji mogłaby zostać lepiej podzielona na mniejsze moduły, co poprawiłoby czytelność.
-- ✅ Dokumentacja kodu – większa liczba komentarzy w kodzie ułatwiłaby przyszłą rozbudowę projektu.
-- ✅ Unifikacja stylu kodowania – jednolity styl kodowania (np. konwencje nazewnicze) może zwiększyć przejrzystość kodu.
+- Segmentacja kodu – część funkcji mogłaby zostać lepiej podzielona na mniejsze moduły, co poprawiłoby czytelność.
+- Dokumentacja kodu – większa liczba komentarzy w kodzie ułatwiłaby przyszłą rozbudowę projektu.
 
 2. Optymalizacja algorytmów
-- ✅ Lepsza obsługa kolizji – obecnie AABB działa poprawnie, ale można zoptymalizować przeszukiwanie boidów poprzez np. drzewa BVH (Bounding Volume Hierarchy) lub grid przestrzenny.
-- ✅ Ulepszenie zachowania boidów – bardziej realistyczne unikanie kolizji i płynniejsze ruchy mogą poprawić wrażenia wizualne.
+- Lepsza obsługa kolizji – obecnie AABB działa poprawnie, ale można zoptymalizować przeszukiwanie boidów poprzez np. drzewa BVH (Bounding Volume Hierarchy) lub grid przestrzenny.
+- Ulepszenie zachowania boidów – bardziej realistyczne unikanie kolizji i płynniejsze ruchy mogą poprawić wrażenia wizualne.
 
 3. Interfejs i interakcje
-- ✅ Bardziej intuicyjne sterowanie kamerą – aktualnie ruch kamery może wymagać dopracowania w zakresie ergonomii.
-- ✅ Większa interaktywność muzeum – możliwość bardziej zaawansowanych interakcji z obiektami, np. otwieranie opisów eksponatów, aktywacja specjalnych animacji.
+- Bardziej intuicyjne sterowanie kamerą – aktualnie ruch kamery może wymagać dopracowania w zakresie ergonomii.
 
 4. Warstwa wizualna i efekty
-- ✅ Dopracowanie oświetlenia – dynamiczne światła i lepsze cieniowanie mogą nadać bardziej realistyczny wygląd.
-- ✅ Lepsze tekstury i materiały – wykorzystanie bardziej zaawansowanych shaderów do poprawy wyglądu obiektów.
+-  Dopracowanie oświetlenia – dynamiczne światła i lepsze cieniowanie mogą nadać bardziej realistyczny wygląd.
