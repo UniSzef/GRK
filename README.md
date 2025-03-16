@@ -29,6 +29,7 @@ Aplikacja pozwala użytkownikowi na swobodną eksplorację świata, interakcję 
 - GLFW – zarządzanie oknem i kontekstem OpenGL.
 
 ## Jak działa system
+<img src="./how-it-works.gif" />
 Eksploracja muzeum – użytkownik może swobodnie poruszać się po przestrzeni muzealnej, korzystając z mechaniki sterowania kamerą.
 Symulacja boidów – wirtualne stworzenia poruszają się według zasad separacji, wyrównania i spójności.
 Detekcja kolizji (AABB) – system sprawdza, czy boidy zderzają się ze sobą lub z obiektami otoczenia.
