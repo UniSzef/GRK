@@ -40,7 +40,7 @@ Aplikacja pozwala użytkownikowi na swobodną eksplorację świata, interakcję 
 ### Podsumowanie
 Kocie Muzeum to eksperymentalna aplikacja edukacyjna, która pozwala na zrozumienie podstaw grafiki komputerowej, symulacji ruchu i interakcji w środowisku 3D. Dzięki wykorzystaniu OpenGL, programów shaderowych i algorytmu boidów, projekt oferuje realistyczne odwzorowanie zachowań grupowych oraz immersyjne środowisko muzealne. Jest to idealna platforma do nauki, eksploracji oraz testowania różnych koncepcji związanych z grafiką komputerową i symulacją fizyczną.
 
-Co można poprawić?
+## Co można poprawić?
 1. Czystość kodu i organizacja
 - ✅ Segmentacja kodu – część funkcji mogłaby zostać lepiej podzielona na mniejsze moduły, co poprawiłoby czytelność.
 - ✅ Dokumentacja kodu – większa liczba komentarzy w kodzie ułatwiłaby przyszłą rozbudowę projektu.
