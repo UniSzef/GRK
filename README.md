@@ -2,7 +2,7 @@
 ### Twórcy
 - Michał Łuczak - oświetlenie, cienie, kolizje
 - Bartosz Hornung - algorytm aabb, interakcje z boidami
-- Katarzyna Róg & Maciej Kot - wizualny wygląd, umiejscowienie oraz tekstury obiektów
+- Katarzyna Róg & Wojciech Kot - wizualny wygląd, umiejscowienie oraz tekstury obiektów
 
 ### Opis projektu
 
